@@ -1,0 +1,23 @@
+{
+  "name": "kosa_study",
+  "version": "1.0.0",
+  "description": "KOSA Study",
+  "main": "simpleCalc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shine-17/KOSA_Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shine-17/KOSA_Study/issues"
+  },
+  "homepage": "https://github.com/shine-17/KOSA_Study#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
